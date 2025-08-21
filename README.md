@@ -1,7 +1,9 @@
-### Ex. No. 01
+## Ex. No. 01
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+```
 NAME : JEGATHEESWARI R
 REG NO: 212223230092
+```
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
