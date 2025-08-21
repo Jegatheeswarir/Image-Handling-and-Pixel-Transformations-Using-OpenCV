@@ -1,4 +1,4 @@
-## Ex. No. 01
+## EX NO -01
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 ```
 NAME : JEGATHEESWARI R
